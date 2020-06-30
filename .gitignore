@@ -123,3 +123,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+log/log.txt
+infos/setting.ini
+infos/local_music.ini
+test.py
+build/
+__pycache__/
+dist/
+成品/
+cache/
+.idea/
+
